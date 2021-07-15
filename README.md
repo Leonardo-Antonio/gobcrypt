@@ -5,7 +5,7 @@
 ### Install 
 
 ```go
- go get github.com/Leonardo-Antonio/goCypher
+go get github.com/Leonardo-Antonio/gobcrypt
 ```
 
 ### How to use
